@@ -1,0 +1,1 @@
+# MercadoFinanceiro_analise6bancos
