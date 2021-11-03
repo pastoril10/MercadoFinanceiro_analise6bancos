@@ -1,7 +1,7 @@
 # Mercado Financeiro - analise de 6 grandes bancos no Brasil
 
 ### Intervalo da análise: 01/01/2019 até o dia de hoje (03/11/2021)
-
+### Fonte: Yahoo Finance
 ### Nota- se grandes correlações entre as ações:
 
 Banco inter e BTG Pactual
